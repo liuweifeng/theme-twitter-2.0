@@ -5,4 +5,4 @@ This is blog theme compatible with Jekyll-Bootstrap
 Installation
 ------------
 
-    rake theme:install git="https://github.com/gdagley/theme-twitter-2.0"
+    rake theme:install git="https://github.com/liuweifeng/theme-twitter-2.0"
